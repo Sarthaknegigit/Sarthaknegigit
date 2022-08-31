@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, NodeJs**
 
-- 💬 Ask me about **Python, Numpy, Pandas, Mediapipe**
+- 💬 Ask me about **Python, Numpy, Pandas**
 
 - 📫 How to reach me **snegicodes@gmail.com**
 
-- ⚡ Fun fact **I can make you laugh even in the worse times.**
+- ⚡ **Currently building Elixir Tech Community.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaknegigit&show_icons=true&locale=en" alt="sarthaknegigit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaknegigit&" alt="sarthaknegigit" /></p>
 
